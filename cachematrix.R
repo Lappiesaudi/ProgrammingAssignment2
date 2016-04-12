@@ -1,4 +1,4 @@
-## The following incldues functions that creates and manipulates a special "matrix" object that puts previously calculated inverse values in a cache.
+## The following includes functions that create and manipulate a special "matrix" object that puts previously calculated inverse values in a cache.
 
 ## Creates a special "matrix" object.
 
